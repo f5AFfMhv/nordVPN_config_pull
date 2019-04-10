@@ -4,7 +4,7 @@ This script is for pulling all nordVPN servers config files from their website (
 <br>
 <br>
 
-![nordVPN_config_pull](https://raw.githubusercontent.com/f5AFfMhv/pwnCheck_GUI/master/pwnCheck_v1.png)
+![nordVPN_config_pull](https://raw.githubusercontent.com/f5AFfMhv/nordVPN_config_pull/master/script.png)
 
 <h3>Dependencies</h3>
 <ul>
@@ -13,4 +13,4 @@ This script is for pulling all nordVPN servers config files from their website (
 
 <h3>Instalation</h3>
 
-Install dependencies and run nordVPN_config_pull.py
+Install dependencies and run <b>nordVPN_config_pull.py</b>.
